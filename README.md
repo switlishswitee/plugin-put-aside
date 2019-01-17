@@ -14,3 +14,4 @@ It will throw an error if you try to override a previous version
 6/ git push origin master
 
 What latest is pointing at if I push 1.0.7 then 1.0.6 ?
+It will point to 1.0.6 because it is the last one pushed
