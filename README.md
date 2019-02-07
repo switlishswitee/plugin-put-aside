@@ -27,3 +27,5 @@ source: https://github.com/jsdelivr/jsdelivr/issues/18063
 source: https://github.com/jsdelivr/jsdelivr#purge-cache
 source 20180619 - https://github.com/jsdelivr/www.jsdelivr.com/issues/179
 
+Not to do:
+Do not fuse switlish_widget with switlish_tracking because extension only use switlish_widget
