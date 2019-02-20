@@ -7,6 +7,7 @@ To create a new version, it is not done in github. Github is only for storing.
 How to push a new version ?
 1/ git clone https://github.com/switlishswitee/plugin-put-aside.git
 2/ vim package.json -> version : X.X.X
+2.5/ + modif version in (homol_)switlish_widget.min.js to have fix version to avoid crop code with latest
 3/ npm publish
 It will throw an error if you try to override a previous version
 4/ git add .

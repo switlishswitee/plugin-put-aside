@@ -1,9 +1,10 @@
 {
   "name": "switlish-plugin-put-aside",
-  "version": "1.0.30",
+  "version": "1.0.59",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "com": "!!!! WARNING !!!!! Version needs to be modified in 2 other files -> switlish_widget.min.js & (homol_)switlish_widget.min.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
